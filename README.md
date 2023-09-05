@@ -1,4 +1,4 @@
 ## Homework_07 Scit Newspage   
 ### Eakkawee Puangbuppha 6340011020
 
-<img src='assets/images/screenshot.png' style="width: 300px; height: 550px; max-width: 100%;">
+<img src='assets/images/screenshot.png' style="width: 300px; height: 650px; max-width: 100%;">
